@@ -1,1 +1,1 @@
-# enterprise-ai-knowledge-assistant
+# customer-churn-prediction-system
